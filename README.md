@@ -1,2 +1,2 @@
 # bungalow
-Bungalow is a pretty funny nmae
+Bungalow is a pretty funny name
